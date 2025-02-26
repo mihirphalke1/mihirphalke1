@@ -2,7 +2,6 @@
 🚀 Problem Solver passionate about building impactful tech.<br>🔬 Research Associate at Somaiya Machine Learning Research Association.<br>🎓 Sophomore at KJ Somaiya College of Engineering, Mumbai.<br>📊 Exploring Data Science, Machine Learning, and Web Development.<br>🤝 Always open to collaborations, tech discussions, and new learning opportunities!<br><br><br>Email: mihirphalke@gmail.com
 
 
-## 🌐 Socials:
 
 
 # 💻 Tech Stack:
